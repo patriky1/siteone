@@ -1,0 +1,22 @@
+.image1{
+    position: relative;
+    width: 72%;
+    left: 15%;
+}
+.carousel{
+    position: absolute;
+    left: 15%;
+    margin-top: 5%;
+    
+}
+.buttoncarousel{
+    position: relative;
+    left: 50%;
+    width: 10%;
+
+}
+.title{
+    position: absolute;
+    color: white;
+    left: 10%;
+}
